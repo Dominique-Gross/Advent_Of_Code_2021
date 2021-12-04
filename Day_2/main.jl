@@ -1,4 +1,4 @@
-#### DAY 1 ####
+#### DAY 2 ####
 using DelimitedFiles
 # Part 1
 
