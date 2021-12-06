@@ -34,9 +34,9 @@ function part1(input,duration)
     return sum(score)+temp_7+temp_8
 end
 
-part1(input,256)
+part1(input,80)
 
 # Part 2
 
 
-# part2(input2)
+part2(input,256)
