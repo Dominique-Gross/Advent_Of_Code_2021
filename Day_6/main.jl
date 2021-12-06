@@ -39,4 +39,4 @@ part1(input,80)
 # Part 2
 
 
-part2(input,256)
+part1(input,256)
