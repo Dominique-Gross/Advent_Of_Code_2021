@@ -1,4 +1,4 @@
-#### DAY 1 ####
+#### DAY 7 ####
 using Statistics
 # Part 1
 
