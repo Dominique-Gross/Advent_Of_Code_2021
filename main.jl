@@ -1,6 +1,6 @@
 #### DAY 1 ####
 
-input = parse.(Int,collect(readlines("Day_1/ex.txt")))
+input = parse.(Int,collect(readlines("Day_9/ex.txt")))
 
 # Part 1
 
